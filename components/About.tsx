@@ -11,7 +11,7 @@ const About: React.FC = () => {
         <div className="relative">
           <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl border border-white/5">
             <img 
-              src="assets/glass-fix.png" 
+              src="https://raw.githubusercontent.com/amjadvkthai/GlassPointWebsite2/refs/heads/main/assets/glass-fix.png" 
               alt="Glass Craftsman" 
               className="w-full h-auto object-cover grayscale hover:grayscale-0 transition-all duration-700"
             />
